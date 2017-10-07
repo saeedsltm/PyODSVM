@@ -6,7 +6,7 @@ One Dimensional Seismic Velocity Model (ODSVM).
 - Calculate Travel Times using a finite difference solution to the Eikonal equations Based on fast marching method (FMM).
 
 # Non-Linear Inversion
-- Genetic Algorithm.
+- Genetic Algorithm (GA) / Particle Swarm Optimization (PSO).
 
 # Visualization
 - matplotlib.
