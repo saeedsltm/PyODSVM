@@ -6,6 +6,6 @@ One Dimensional Seismic Velocity Model (ODSVM).
 
 # Non-Linear Inversion
 
-# Mimizer
+# Minimizer
 
 # Plotter
